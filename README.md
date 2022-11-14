@@ -1,2 +1,2 @@
 # SoftwareDesign-DevelopmentCourseNotes
-Nots for the software design and development course. 
+Notes for the software design and development course. 
