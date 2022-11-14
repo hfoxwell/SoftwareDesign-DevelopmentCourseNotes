@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md"
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "60f4a0531a402de9",
   "lastOpenFiles": [
+    "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of of software.md",
     "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md"
   ]
 }
