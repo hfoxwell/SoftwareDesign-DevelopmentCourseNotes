@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "ec2204c31d7277cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1719e79d63f01d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a892c3fe79806de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60f4a0531a402de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab35252d1c66177f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6603daeab006a6ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eeba8ae33a23299",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0375e986a8b87919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3f15d3b7afbf3dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c95ff68cba56e949",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba036ce061f3c245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9a5969ac1c3c97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7756d527461508a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24926f9122f1bb4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "139ca4e81c49041a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/The impact of.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "60f4a0531a402de9",
+  "lastOpenFiles": [
+    "9.1 Development & Impact of software solutions/9.1.1 Social and ethical issues/__Syllabus__.md"
+  ]
+}
